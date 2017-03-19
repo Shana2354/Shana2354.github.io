@@ -17,3 +17,33 @@ body {
   justify-content: left;
 }
 
+.background {
+	background: #000000;
+}
+.background a {
+	 color: #E5E4E3;
+}
+
+.artwork {
+	background: rgba(0,0,0,0.5);
+}
+
+.arttitle {
+	text-align: right;
+	font: arial;
+	color: #FFFFFF;
+	font-size: 2em;
+}
+
+
+.artdate{
+	text-align: right;
+	font: arial;
+	color: #FFFFFF;
+	font-size: 1em;
+}
+
+.artimg {
+	padding-top: 2em;
+	padding-right: 1.5em;
+}
