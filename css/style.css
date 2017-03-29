@@ -29,7 +29,7 @@ body {
 }
 
 .arttitle {
-	text-align: right;
+	text-align: left;
 	font: arial;
 	color: #FFFFFF;
 	font-size: 2em;
@@ -37,7 +37,7 @@ body {
 
 
 .artdate{
-	text-align: right;
+	text-align: left;
 	font: arial;
 	color: #FFFFFF;
 	font-size: 1em;
@@ -46,4 +46,15 @@ body {
 .artimg {
 	padding-top: 2em;
 	padding-right: 1.5em;
+}
+
+.artcomment {
+   text-align: left;
+	font: arial;
+	color: #FFFFFF;
+	font-size: 1em;
+}
+
+.block-quote {
+	padding-left: 1em;
 }
